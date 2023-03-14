@@ -1,0 +1,22 @@
+C:\Users\Lucas\source\repos\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\Lucas\source\repos\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\Lucas\source\repos\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.pdb
+C:\Users\Lucas\source\repos\Pong\Pong\obj\Debug\Pong.GameWindow.resources
+D:\C#2023 MU\Practice Tasks\Pong\Pong\bin\Debug\Pong.exe.config
+D:\C#2023 MU\Practice Tasks\Pong\Pong\bin\Debug\Pong.exe
+D:\C#2023 MU\Practice Tasks\Pong\Pong\bin\Debug\Pong.pdb
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.csproj.SuggestedBindingRedirects.cache
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.GameWindow.resources
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.exe
+D:\C#2023 MU\Practice Tasks\Pong\Pong\obj\Debug\Pong.pdb
